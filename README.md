@@ -1,4 +1,4 @@
-# Astral_SunriseSunset
+# Astral_SunriseSunset for TouchDesigner-099
 [TouchDesigner] Astralによる日の出日の入り時間の計算
 
 # 使い方
