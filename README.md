@@ -1,8 +1,7 @@
-# Astral_SunriseSunset for TouchDesigner-099
-[TouchDesigner] Astralによる日の出日の入り時間の計算
+# Sunrise and Sunset calculation system for TouchDesigner
 
-# 使い方
-TouchDesignerが利用しているPythonのsite-packagesパスを探す。
+# How to use
+Find a python "site-packages" path of TouchDesigner.
 
 ```
 import sys
@@ -11,9 +10,9 @@ sys.path
 
 ![thumbnail](https://github.com/kodai100/TD_SunriseSunset/blob/master/images_for_readme/pythonpath.jpg)
 
-リポジトリに入っているsite-packages内のファイルをそのままコピペ
+Copy and paste site-packages of this repository to above folder.
 
 ![thumbnail](https://github.com/kodai100/TD_SunriseSunset/blob/master/images_for_readme/explorer.jpg)
 
-Astral_SunriseSunset.toe起動
-起動時に日の出日の入り時間を計算。(もしくは1キーで更新)
+Execute Astral_SunriseSunset.toe and automatically calculated sunrise/sunset time.
+(or update to press 1 key.)
